@@ -1,0 +1,14 @@
+C:\VGD\LocationNavigator\LocationNavigator\bin\Debug\LocationNavigator.exe.config
+C:\VGD\LocationNavigator\LocationNavigator\bin\Debug\LocationNavigator.exe
+C:\VGD\LocationNavigator\LocationNavigator\bin\Debug\LocationNavigator.pdb
+C:\VGD\LocationNavigator\LocationNavigator\obj\Debug\LocationNavigator.csprojAssemblyReference.cache
+C:\VGD\LocationNavigator\LocationNavigator\obj\Debug\LocationNavigator.csproj.CoreCompileInputs.cache
+C:\VGD\LocationNavigator\LocationNavigator\obj\Debug\LocationNavigator.exe
+C:\VGD\LocationNavigator\LocationNavigator\obj\Debug\LocationNavigator.pdb
+C:\VGD\consolerpg\LocationNavigator\bin\Debug\LocationNavigator.exe.config
+C:\VGD\consolerpg\LocationNavigator\bin\Debug\LocationNavigator.exe
+C:\VGD\consolerpg\LocationNavigator\bin\Debug\LocationNavigator.pdb
+C:\VGD\consolerpg\LocationNavigator\obj\Debug\LocationNavigator.csprojAssemblyReference.cache
+C:\VGD\consolerpg\LocationNavigator\obj\Debug\LocationNavigator.csproj.CoreCompileInputs.cache
+C:\VGD\consolerpg\LocationNavigator\obj\Debug\LocationNavigator.exe
+C:\VGD\consolerpg\LocationNavigator\obj\Debug\LocationNavigator.pdb

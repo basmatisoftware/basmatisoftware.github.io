@@ -1,0 +1,6 @@
+C:\VGD\LocationNavigator\LocationNavigator\bin\Release\LocationNavigator.exe.config
+C:\VGD\LocationNavigator\LocationNavigator\bin\Release\LocationNavigator.exe
+C:\VGD\LocationNavigator\LocationNavigator\bin\Release\LocationNavigator.pdb
+C:\VGD\LocationNavigator\LocationNavigator\obj\Release\LocationNavigator.csproj.CoreCompileInputs.cache
+C:\VGD\LocationNavigator\LocationNavigator\obj\Release\LocationNavigator.exe
+C:\VGD\LocationNavigator\LocationNavigator\obj\Release\LocationNavigator.pdb

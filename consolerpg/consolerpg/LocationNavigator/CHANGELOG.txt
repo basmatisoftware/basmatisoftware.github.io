@@ -1,0 +1,48 @@
+﻿ChangeLog file created 2018/10/29
+---------------------------------
+
+2018/10/29	14:45
+			Added RandomNumberGenerator.cs and CHANGELOG.txt
+			Added ability to list inventory, monsters, and quests
+			Working on "inventory" command TODO
+
+2018/10/29	17:12
+			Completed inventory command and tested by giving _player a sword.
+			Commented out the "Lists" from the world
+
+2018/10/29	18:17
+			Added "stats" menu item.
+
+2018/10/29	18:34
+			Checking location requirements before allowing to enter a location.
+			Files modified: Location.cs, Player.cs
+			Heal the player after each move.
+2018/10/29	18:45
+			Added "quests" to menu, but still need to manage the quest engine.
+			Will probably add this to Player class or GameEngine class.
+
+2018/10/30	10:15
+			Version 0.0.4
+			Added quests functionality. Required changes to GameEngine, Player. Made
+			some minor formatting changes to World.cs for better text-appearances.
+
+2018/10/30	10:40
+			Monster detection working (we know if a monster is in a given location)
+			Modified Player, GameEngine, Program
+
+2018/10/30	11:40
+			Menu item: equip, weapons
+			Created WeaponsList and default weapon for player and ability to equip the
+			player with the chosen weapon.
+
+2018/10/30	12:05
+			Version 0.0.5
+			Menu item: attack
+			UseWeapon method completed in player section allowing player to battle with
+			monsters.
+
+2018/10/30	16:40
+			A bit of clean-up in presentation and shortcuts: n, e, s, w, i, a
+			Added a club as loot from snakes to be able to test equip commands.
+
+
